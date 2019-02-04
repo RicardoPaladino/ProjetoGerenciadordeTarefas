@@ -1,0 +1,6 @@
+C:\Users\Ricardo\Desktop\Projeto\Projeto.Seguranca\bin\Debug\Projeto.Seguranca.dll
+C:\Users\Ricardo\Desktop\Projeto\Projeto.Seguranca\bin\Debug\Projeto.Seguranca.pdb
+C:\Users\Ricardo\Desktop\Projeto\Projeto.Seguranca\obj\Debug\Projeto.Seguranca.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Projeto\Projeto.Seguranca\obj\Debug\Projeto.Seguranca.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Projeto\Projeto.Seguranca\obj\Debug\Projeto.Seguranca.dll
+C:\Users\Ricardo\Desktop\Projeto\Projeto.Seguranca\obj\Debug\Projeto.Seguranca.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ricardo\Desktop\Projeto\Projeto.Entities\bin\Debug\Projeto.Entities.dll
+C:\Users\Ricardo\Desktop\Projeto\Projeto.Entities\bin\Debug\Projeto.Entities.pdb
+C:\Users\Ricardo\Desktop\Projeto\Projeto.Entities\obj\Debug\Projeto.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Projeto\Projeto.Entities\obj\Debug\Projeto.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Projeto\Projeto.Entities\obj\Debug\Projeto.Entities.dll
+C:\Users\Ricardo\Desktop\Projeto\Projeto.Entities\obj\Debug\Projeto.Entities.pdb
